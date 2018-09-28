@@ -1,5 +1,5 @@
 # AmDow
 Create Ambient Shadows in Sketch, Faster!
 
-![alt text](https://imgur.com/zcQvz26q)    ![alt text](https://imgur.com/1QtHxNh)    ![alt text](https://imgur.com/361oEq4)
+![alt text](https://i.imgur.com/361oEq4.png)    ![alt text](https://i.imgur.com/1QtHxNh.png)    ![alt text](https://i.imgur.com/zcQvz26.png)
 
