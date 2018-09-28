@@ -1,8 +1,9 @@
 // Default Values for Form Fields
 var basic = {
+  
+  scale_shrink: "0.85"
   blur_spread: "16",
   offset_y: "8",
-  scale_shrink: "0.85"
 }
 
 //Form Field PopUp Function
