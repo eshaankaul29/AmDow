@@ -11,14 +11,27 @@
   "bundleVersion": 1,
   "commands": [
     {
-      "name": "Run 🚀",
+      "name": "Run AmDow 🚀",
       "identifier": "create",
       "shortcut": "ctrl shift =",
       "script": "script.js",
       "handler": {"run": "onRun"},
       "description": "Create Ambient Shadows, Faster! Inspired from Apple Music.",
-      "icon": ""
+      "icon": "icon.png"
     }
+
+    {
+      "script" : "script.js",
+      "shortcut" : "ctrl shift =",
+      "handler": {"run": "onRun"},
+      },
+      "identifier" : "create",
+      "description" : "Create Ambient Shadow",
+      "icon" : "Resources/icon.png",
+      "name" : "AmDow"
+      }
+
+
   ],
   "menu": {
     "items": [
