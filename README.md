@@ -2,7 +2,7 @@
 
 ![alt text](https://i.imgur.com/tXI3PBU.png)   
 
-AmDow is a Sketch Plugin which automates the tedious process of making Apple Music Inspired Ambient Shadows. With this plugin, all you have to do is select the layer whose property you want transcended into the ambient shadow and enter.
+AmDow is a Sketch Plugin which automates the tedious process of making Apple Music Inspired Ambient Shadows. With this plugin, all you have to do is select the layer whose property you want to be transcended into the ambient shadow and enter.
 
   
 # How To Use
